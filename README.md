@@ -47,7 +47,7 @@ Welcome to my GitHub portfolio! I am a software engineer and machine learning pa
 
 ## 📄 Resume & LinkedIn
 - **LinkedIn:** [https://www.linkedin.com/in/mogestesema/](https://www.linkedin.com/in/mogestesema/)
-- **Resume:** [Google Drive Link](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+- **Resume:** [Google drive Resume](https://drive.google.com/file/d/19xloewo4irE35TJrIa99Eqfm3VryTQq4/view?usp=sharing)
 
 ---
 
