@@ -1,15 +1,15 @@
 # Moges Tesema | Software Engineer & Machine Learning Enthusiast
 
-Welcome to my GitHub portfolio! I am a software engineer and machine learning passionate about building intelligent systems, solving real world problems, and creating scalable software system.
+Welcome to my GitHub portfolio! I am a software engineer and machine learning passionate about building intelligent systems, solving problems, and creating scalable software system.
 
 ---
 
 ## 🧠 Core Skills
 
-- **APIs & Microservices:** Building ML-powered APIs like my Safe-Text API service.
+- **APIs & Microservices:** Building ML-powered APIs with high performance frameworks like fastAPI.
 - **Machine Learning & AI:** TensorFlow, Keras, scikit-learn, Hugging Face Transformers, model deployment, Docker.
-- **Python Development:** Flask,FastAPI, Advanced Python programming, OOP, decorators, generators, concurrency, and data pipelines.
-- **Data Structures & Algorithms (DSA):** Solving problems from LeetCode with a focus on algorithm optimization and complexity analysis.
+- **Python Development:** Flask,FastAPI, Advanced Python programming, OOP, concurrency, and data pipelines.
+- **Data Structures & Algorithms (DSA):** Solving problems from LeetCode with a focus on algorithm optimization.
 
 
 ---
@@ -29,15 +29,16 @@ Welcome to my GitHub portfolio! I am a software engineer and machine learning pa
 ### **LeetCode DSA Solutions Hub**
 - Organized repository of DSA solutions of leetcode and codeforce problems.
 - [Repository Link](https://github.com/mogesTesema/leetcode-DSA-problems-solution-hub)
-
-### Other Notable Repositories
+### **SocialMediaAPI**
+- project that handle socialmedia communcation with high performance backend system powered by fastAPI.
+### Other  Repositories
 - **Generative AI Chatbot FullStack Web App** – AI-powered chatbot backend with ExpressJs.
 - **Java Client-Server Projects** – Exploring Java networking, JDBC, and backend integration.
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Programming Languages:** Python, Javascript,Java
+- **Programming Languages:** Python, Javascript,Java,fastAPI
 - **Machine Learning & AI:** TensorFlow, Keras, scikit-learn, Hugging Face Transformers,weight & biase
 - **Containers & Deployment:** Docker, Render,Huggingface, Railway,Neon
 - **Data Handling & Pipelines:** Pandas, NumPy
