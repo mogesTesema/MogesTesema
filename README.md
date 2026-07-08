@@ -1,4 +1,5 @@
-# Moges Mekonen | Software Engineer & Machine Learning Engineer
+# Moges Mekonen
+## Software Engineer & Machine Learning Engineer
 
 Welcome to my GitHub portfolio! I am a software engineer and machine learning passionate about building intelligent systems, solving problems, and creating scalable software system.
 
