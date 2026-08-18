@@ -1,5 +1,5 @@
 # Surafel Demam
-## Software Engineer & Machine Learning Engineer
+## Fullstack developer & 3D designer | AI Engineer
 
 Welcome to my GitHub portfolio! I am a software engineer and machine learning passionate about building intelligent systems, solving problems, and creating scalable software system.
 
