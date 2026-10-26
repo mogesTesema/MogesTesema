@@ -1,5 +1,5 @@
-# Moges Mekonen
-## Fullstack developer & 3D designer | AI Engineer
+# Surafel Demam
+## Software Engineer | AI Evaluation & Benchmarking Engineer
 
 Welcome to my GitHub portfolio! I am a software engineer and machine learning passionate about building intelligent systems, solving problems, and creating scalable software system.
 
